@@ -24,9 +24,9 @@ Building a game, manipulating sprites and images, manipulating events
 # Author/Contributors
 Author: Ange SINTONDJI
 Contributors: Fania ADJINDA
-            Jonate 
+            Jonate GBOGBLENOU
             Jorès da TRINIDADE
             Ouriel HOUNGUE
-            Saobane 
+            Saobane LIAMIDI
 
 ## A README file provides not only the description of the project but its story
